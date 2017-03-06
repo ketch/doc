@@ -15,10 +15,6 @@ Objects of this class are usually created by the new_plotaxes method of a
 
 .. class:: ClawPlotAxes
 
-
-Attributes
-==========
-
   The following attributes can be set by the user:
 
   .. attribute:: name : str
@@ -87,10 +83,6 @@ Attributes
   .. attribute:: show : bool
 
      If False, suppress showing this axes and all items on it.
-
-
-Methods
-=======
 
   .. method:: new_plotitem(name=None, plot_type)
 

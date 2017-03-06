@@ -13,10 +13,6 @@ Objects of this class are usually created by the new_plotfigure method of a
 
 .. class:: ClawPlotFigure
 
-
-Attributes
-==========
-
   The following attributes can be set by the user:
 
   .. attribute:: figno : int
@@ -52,11 +48,6 @@ Attributes
   .. attribute:: show : bool
 
     If False, suppress showing this figure.
-
-
-
-Methods
-=======
 
   .. method:: new_plotaxes(name=None)
 
