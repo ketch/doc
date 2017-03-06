@@ -235,7 +235,7 @@ latex_documents = [
 #intersphinx_mapping = {'http://docs.python.org/dev': None}
 #intersphinx_mapping = {'kingkong': ('http://kingkong.amath.washington.edu/clawpack/trunk/doc/sphinx/', None)}
 
-keep_warnings = 'True'
+keep_warnings = True
 
 inheritance_graph_attrs = dict(rankdir="TB", 
                                fontsize=12,splines='"true"',penwidth=100)
